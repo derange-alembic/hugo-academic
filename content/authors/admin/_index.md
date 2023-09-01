@@ -65,8 +65,6 @@ email: 'lizhiyao19@mails.tsinghua.edu.cn'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
 Zhiyao Li is a PhD student in Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University. His advisor is [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, he obtained a bachelor degree from the 
 Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include dataflow architecture design and optimization, hardware acceleration for sparse tensor algebra, and LLM serving system optimization.
 
