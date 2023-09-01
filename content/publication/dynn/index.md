@@ -3,8 +3,8 @@ title: "Flexible Dataflow Accelerator for Dynamic Neural Networks"
 authors:
 - Zhiyao Li
 - Mingyu Gao
-date: "2023-06-00T00:00:00Z"
-doi: 
+date: "2023-06-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
