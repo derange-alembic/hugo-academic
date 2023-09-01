@@ -40,21 +40,21 @@ sections:
         - title: Visiting Student Researcher
           company: Stanford University
           company_url: ''
-          company_logo: org-stanford
+          company_logo: stanford
           location: California
           date_start: '2023-07-01'
           date_end: ''
         - title: Research Intern
           company: Ali DAMO Academy
           company_url: ''
-          company_logo: org-damo
+          company_logo: damo
           location: Beijing
           date_start: '2022-08-01'
           date_end: '2023-07-01'
         - title: Research Intern
           company: Huawei
           company_url: ''
-          company_logo: org-huawei
+          company_logo: huawei
           location: Chengdu
           date_start: '2018-07-01'
           date_end: '2018-11-01'
