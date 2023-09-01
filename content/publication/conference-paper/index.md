@@ -42,7 +42,7 @@ abstract: Sparse matrix-matrix multiplication (SpGEMM) is widely used in many sc
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -51,11 +51,6 @@ featured: true
 
 url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3575693.3575706'
 url_code: 'https://github.com/tsinghua-ideal/spada-sim'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
 url_video: 'https://www.youtube.com/watch?v=0JgyN3Xps7M'
 
 # Featured image

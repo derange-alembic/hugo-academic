@@ -1,7 +1,7 @@
 ---
 title: "KAPLA: Pragmatic Representation and Fast Solving of Scalable NN Accelerator Dataflow"
 authors:
-- admin
+- Zhiyao Li
 date: "2023-06-15T00:00:00Z"
 doi: "https://doi.org/10.48550/arXiv.2306.15676"
 
@@ -23,19 +23,10 @@ abstract: Dataflow scheduling decisions are of vital importance to neural networ
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
-links:
 url_pdf: https://arxiv.org/pdf/2306.15676
-url_code: ''
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
