@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: lizhiyao19@mails.tsinghua.edu.cn
+    link: mailto:lizhiyao19@mails.tsinghua.edu.cn
   - icon: github
     icon_pack: fab
     link: https://github.com/derange-alembic
