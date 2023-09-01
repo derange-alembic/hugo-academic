@@ -47,7 +47,7 @@ sections:
         - title: Research Intern
           company: Ali DAMO Academy
           company_url: ''
-          company_logo: damo
+          company_logo: alibaba
           location: Beijing
           date_start: '2022-08-01'
           date_end: '2023-07-01'
