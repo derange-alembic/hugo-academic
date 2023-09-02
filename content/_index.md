@@ -43,7 +43,7 @@ sections:
           company: Stanford University
           company_url: ''
           company_logo: stanford
-          location: California
+          location: Palo Alto
           date_start: '2023-07-01'
           date_end: ''
         - title: Research Intern
