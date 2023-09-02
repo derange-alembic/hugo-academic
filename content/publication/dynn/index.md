@@ -16,8 +16,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *ASPLOS 2024*
-publication_short: ""
+publication: Submitted to the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems
+publication_short: "Submitted to *ASPLOS 2024*"
 
 abstract: Under review
 # Summary. An optional shortened abstract.
