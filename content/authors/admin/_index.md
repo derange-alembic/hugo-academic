@@ -22,13 +22,13 @@ organizations:
     url: https://www.tsinghua.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer architecture design and system optimization for AI and sparse tensor algebra.
+bio: My research interests include computer architecture design and system optimization for AI, and dynamic & sparse computing.
 
 # Interests to show in About widget
 interests:
   - Computer System & Architecture
   - Artificial Intelligence
-  - Sparse tensor algebra
+  - Dynamic and sparse computing
 
 # Education to show in About widget
 education:
