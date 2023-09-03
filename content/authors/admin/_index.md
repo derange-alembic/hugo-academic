@@ -26,7 +26,7 @@ bio: My research interests include computer architecture design and system optim
 
 # Interests to show in About widget
 interests:
-  - Computer System & Architecture
+  - Dataflow Architecture
   - Artificial Intelligence
   - Dynamic and sparse computing
 
