@@ -3,7 +3,7 @@ title: "KAPLA: Scalable NN Accelerator Dataflow Design Space Structuring and Fas
 authors:
 - Zhiyao Li
 - Mingyu Gao
-date: "2023-06-15T00:00:00Z"
+date: "2025-06-15T00:00:00Z"
 doi: "https://doi.org/10.1145/3658617.3697549"
 
 # Schedule page publish date (NOT publication's date).
