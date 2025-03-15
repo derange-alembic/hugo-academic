@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD, Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,13 @@ organizations:
     url: https://www.tsinghua.edu.cn
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computer architecture design and system optimization for AI, and dynamic & sparse computing.
+bio: My research interests include computer architecture, high-performance network system design and optimization for AI, and dynamic & sparse computing.
 
 # Interests to show in About widget
 interests:
-  - Dataflow Architecture
+  - Computer Architecture
+  - High-performance network
   - Artificial Intelligence
-  - Dynamic and sparse computing
 
 # Education to show in About widget
 education:
@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:lizhiyao19@mails.tsinghua.edu.cn
+    link: mailto:ziozhiyao.lee@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/derange-alembic
@@ -59,13 +59,12 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'lizhiyao19@mails.tsinghua.edu.cn'
+email: 'ziozhiyao.lee@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Zhiyao Li is a PhD student in Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University. His advisor is [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, he obtained a bachelor degree from the 
-Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include dataflow architecture design and optimization, hardware acceleration for sparse tensor algebra, and LLM serving system optimization.
+Zhiyao Li is currently a researcher for high-performance network in Huawei. He obtains his PhD in Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University, advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, he obtained a bachelor degree from the Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include computer architecture, high-performance network system design and optimization for AI and dynamic & sparse computing.
 
 {style="text-align: justify;"}
