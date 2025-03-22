@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Computer System and Architecture
       institution: Tsinghua University
-      year: 2019 - Now
+      year: 2019 - 2024
     - course: BSE in Computer Science and Technology
       institution: Chongqing University
       year: 2015 - 2019
@@ -65,6 +65,6 @@ email: 'ziozhiyao.lee@gmail.com'
 highlight_name: true
 ---
 
-Zhiyao Li is currently a researcher specializing in high-performance networks at Huawei. He obtains his PhD in Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University, advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, he obtained a bachelor degree from the Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include computer architecture, high-performance network system design and optimization for AI and dynamic & sparse computing.
+Zhiyao Li is currently a researcher specializing in high-performance networks at Huawei. He obtains his PhD in the Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University, advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, he obtained a bachelor degree from the Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include computer architecture, high-performance network system design and optimization for AI and dynamic & sparse computing.
 
 {style="text-align: justify;"}
