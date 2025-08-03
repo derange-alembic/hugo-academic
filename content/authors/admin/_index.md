@@ -65,6 +65,6 @@ email: 'ziozhiyao.lee@gmail.com'
 highlight_name: true
 ---
 
-Zhiyao Li is currently a researcher specializing in high-performance networks at Huawei. He obtains his PhD in the Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University, advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, he obtained a bachelor degree from the Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include computer architecture, high-performance network system design and optimization for AI and dynamic & sparse computing.
+Zhiyao Li is currently a researcher specializing in high-performance networks at Huawei. He obtained his PhD in the Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University, advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). Before joining Tsinghua, he obtained a bachelor degree from the Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include computer architecture, AI cluster network optimization and infrastructure for AI and sparse computing.
 
 {style="text-align: justify;"}
