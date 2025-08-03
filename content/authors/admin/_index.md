@@ -27,8 +27,8 @@ bio: My research interests include computer architecture, high-performance netwo
 # Interests to show in About widget
 interests:
   - Computer Architecture
-  - High-performance network
-  - Artificial Intelligence
+  - Sparse Computing
+  - AI cluster network system
 
 # Education to show in About widget
 education:
