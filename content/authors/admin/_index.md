@@ -53,7 +53,7 @@ social:
     icon_pack: fab
     link: https://github.com/derange-alembic
   - icon: google-scholar
-    icon_pack: academicons
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=ELJUI5wAAAAJ&hl=en
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
