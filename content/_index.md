@@ -39,6 +39,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Researcher
+          company: Huawei Network Technology Lab
+          company_url: ''
+          company_logo: huawei
+          location: Beijing
+          date_start: '2024-07-01'
+          date_end: '2025-09-30'
         - title: Visiting Student Researcher
           company: Stanford University
           company_url: ''
@@ -47,7 +54,7 @@ sections:
           date_start: '2023-07-01'
           date_end: '2023-12-31'
         - title: Research Intern
-          company: Ali DAMO Academy
+          company: Alibaba DAMO Academy
           company_url: ''
           company_logo: alibaba
           location: Beijing
