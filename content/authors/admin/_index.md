@@ -70,6 +70,6 @@ highlight_name: true
 ---
 
 Zhiyao Li is currently an MLSys Researcher at Bytedance Seed. He obtained his PhD from the Institute for Interdisciplinary Information Science (IIIS) at Tsinghua University, advised by [Prof. Mingyu Gao](https://people.iiis.tsinghua.edu.cn/~gaomy/). He worked on 3D stacked memory-based dataflow accelerator as a research intern at Alibaba DAMO computing technology lab. After this, he worked with [Prof. Kunle Olukotun](https://engineering.stanford.edu/people/oyekunle-olukotun) as a visiting student researcher at Stanford University on dataflow AI accelerator design and optimization. After PhD graduation, he joined Huawei Network Technology Lab as a scale-up AI network system researcher. At late 2025, he joined Bytedance Seed as Machine Learning System Research Scientist.
-He obtained a bachelor degree from the Excellent Engineer Class of Computer Science and Technology, Chongqing University. His research interests include LLM training/serving on rack-scale AI cluster, low-latency AI accelerator design, high-performance scale-up/out network, and dynamic & sparse computing.
+He obtained a bachelor degree from the Elite Engineer Project of Computer Science and Technology, Chongqing University. His research interests include LLM training/serving on rack-scale AI cluster, low-latency AI accelerator design, high-performance scale-up/out network, and dynamic & sparse computing.
 
 {style="text-align: justify;"}
