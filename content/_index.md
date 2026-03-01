@@ -40,7 +40,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Scientist
-          company: ByteDance
+          company: ByteDance Seed
           company_url: ''
           company_logo: bytedance
           location: Beijing
@@ -67,13 +67,6 @@ sections:
           location: Beijing
           date_start: '2022-08-01'
           date_end: '2023-07-01'
-        - title: Research Intern
-          company: Huawei
-          company_url: ''
-          company_logo: huawei
-          location: Chengdu
-          date_start: '2018-07-01'
-          date_end: '2018-11-01'
     design:
       columns: '5'
   # - block: collection
