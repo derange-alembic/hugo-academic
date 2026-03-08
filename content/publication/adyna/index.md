@@ -9,7 +9,7 @@ authors:
 - Mingyu Gao
 
 date: "2025-06-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1109/HPCA61900.2025.00049"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
