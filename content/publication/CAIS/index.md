@@ -5,19 +5,19 @@ title: 'Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Chen Zhang
-  - Qijun Zhang
-  - Zhuoshan Zhou
-  - Yijia Diao
-  - Haibo Wang
-  - Zhe Zhou
-  - Zhipeng Tu
-  - Zhiyao Li
-  - Guangyu Sun
-  - Zhuoran Song
-  - Zhigang Ji
-  - Jingwen Leng
-  - Minyi Guo
+- Chen Zhang
+- Qijun Zhang
+- Zhuoshan Zhou
+- Yijia Diao
+- Haibo Wang
+- Zhe Zhou
+- Zhipeng Tu
+- Zhiyao Li
+- Guangyu Sun
+- Zhuoran Song
+- Zhigang Ji
+- Jingwen Leng
+- Minyi Guo
 
 
 # Author notes (optional)
@@ -25,11 +25,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-06-25T00:00:00Z'
-doi: 'https://doi.org/10.1145/3695053.3731044'
+date: '2026-03-04T00:00:00Z'
+doi: 'https://doi.org/10.1109/HPCA68181.2026.11408460'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-03-04T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
